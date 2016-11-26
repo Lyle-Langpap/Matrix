@@ -1,0 +1,6 @@
+[submodule "Test"]
+	path = Test
+	url = git@github.com:Lyle-Langpap/Test.git
+[submodule "ANSI"]
+	path = ANSI
+	url = git@github.com:Lyle-Langpap/ANSI.git
