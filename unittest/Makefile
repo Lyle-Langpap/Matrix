@@ -9,6 +9,7 @@ INC += -I ../Test
 LIB := -lm
 
 FILES := ../Test/Test.c
+FILES += ../Matrix_3x3.c
 
 
 .PHONY: default
